@@ -15,11 +15,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-Data analyst with a Computer Science background focused on turning raw data into clear business insights.  
-I specialize in building **Power BI dashboards that actually support decision-making**.
-
-Currently improving my skills in **Python and SQL** while working on real-world projects.
-
+I'm just a Data Analyst
 ---
 
 ## 🎯 CORE PROFILE
