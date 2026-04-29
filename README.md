@@ -24,10 +24,8 @@ Currently improving my skills in **Python and SQL** while working on real-world 
 
 ## 🎯 CORE PROFILE
 
-- 📊 Data Analytics & Business Intelligence
-
-- 📈 Power BI dashboard development
-
+- 📊 Data Analytics & Business Intelligence <br>
+- 📈 Power BI dashboard development <br>
 - 🧠 Data storytelling & insight communication
 - 🐍 Learning Python for data analysis
 - 🗄️ Improving SQL for querying
