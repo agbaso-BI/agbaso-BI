@@ -26,10 +26,10 @@ Currently improving my skills in **Python and SQL** while working on real-world 
 
 - 📊 Data Analytics & Business Intelligence <br></br>
 - 📈 Power BI dashboard development <br></br>
-- 🧠 Data storytelling & insight communication
-- 🐍 Learning Python for data analysis
-- 🗄️ Improving SQL for querying
-- 🌍 Based in Nigeria open to remote roles
+- 🧠 Data storytelling & insight communication <br></br>
+- 🐍 Learning Python for data analysis <br></br>
+- 🗄️ Improving SQL for querying <br></br>
+- 🌍 Based in Nigeria open to remote roles <br></br>
 
 ---
 
