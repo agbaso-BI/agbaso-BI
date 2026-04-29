@@ -1,14 +1,16 @@
-<!-- HEADER IMAGE (FIXED CENTERING FOR PC + MOBILE) -->
+<!-- HEADER IMAGE (PROPER SIZE + RESPONSIVE + CENTERED) -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVybzFkZzA2a3gybWszem90a3oxeGNodXN6a2psMnI2N3NwbzBobyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="display:block; margin:auto;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVybzFkZzA2a3gybWszem90a3oxeGNodXN6a2psMnI2N3NwbzBobyZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="650" 
+       style="max-width:100%; height:auto;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel C. Agbaso</h1>
 <h3 align="center">Data Analyst · Business Intelligence · Nigeria 🇳🇬</h3>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Power+BI+%7C+Excel+%7C+SQL;Turning+data+into+clear+business+insights;Business+Intelligence+%7C+Data+Visualization;Open+to+Remote+Opportunities+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Power+BI+%7C+Excel+%7C+SQL;Turning+data+into+business+insights;Business+Intelligence+%7C+Dashboards;Open+to+Remote+Opportunities+%F0%9F%9A%80" />
 </p>
 
 <!-- PROFILE VIEWS -->
@@ -20,7 +22,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Analyst focused on turning raw data into clear, useful insights. I specialize in building interactive dashboards using Power BI to support business decisions. I'm continuously improving my skills in data analysis and visualization.
+I'm a Data Analyst focused on turning raw data into clear and useful insights.  
+I specialize in building **Power BI dashboards** that support real business decisions.
+
+I’m continuously improving my skills in data analysis and visualization.
 
 ---
 
