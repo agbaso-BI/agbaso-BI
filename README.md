@@ -4,81 +4,73 @@
 <h3 align="center">Data Analyst · Business Intelligence · Nigeria 🇳🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F2C811&center=true&vCenter=true&width=500&lines=Power+BI+%7C+Excel+%7C+Python+%7C+SQL;Turning+messy+data+into+clear+decisions;Based+in+Nigeria+%F0%9F%87%B3%F0%9F%87%AC+%7C+Open+to+Remote+Work;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Power+BI+%7C+Excel+%7C+Python+%7C+SQL;Turning+messy+data+into+clear+decisions;Business+Intelligence+%7C+Data+Storytelling;Open+to+Remote+Work+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agbaso-BI&label=Profile+Views&color=F2C811&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=agbaso-BI&label=Profile+Views&color=F2C811&style=for-the-badge" />
 </p>
 
 ---
 
-### 👋 About Me
+## 👨‍💻 ABOUT ME
 
-I'm a data analyst with a Computer Science background, focused on turning raw data into clear, useful insights. Power BI is my strongest tool — I use it to build dashboards that actually get used. I'm still building my Python and SQL skills, but I take the work seriously and I'm improving every day.
+Data analyst with a Computer Science background focused on turning raw data into clear business insights.  
+I specialize in building **Power BI dashboards that actually support decision-making**.
 
----
-
-- 👀 I'm interested in **Data Analytics, Business Intelligence & Storytelling with Data**
-- 🌱 I'm currently learning **Python** and **SQL** to go deeper with data
-- 💞️ I'm looking to collaborate on **data and dashboard projects**
-- 📫 How to reach me: **agbasodaniel@gmail.com**
-- 🌍 Based in **Nigeria** — open to remote opportunities
-- ⚡ Fun fact 1: A good dashboard should explain itself — no legend needed.
-- ⚡ Fun fact 2: I got into data for the "aha!" moment when the numbers finally click.
+Currently improving my skills in **Python and SQL** while working on real-world projects.
 
 ---
 
-### 🤝 Connect with me:
+## 🎯 CORE PROFILE
 
-<p align="left">
-  <a href="https://linkedin.com/in/danielchigozirim" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:agbasodaniel@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
-  </a>
+- 📊 Data Analytics & Business Intelligence
+- 📈 Power BI dashboard development
+- 🧠 Data storytelling & insight communication
+- 🐍 Learning Python for data analysis
+- 🗄️ Improving SQL for querying
+- 🌍 Based in Nigeria — open to remote roles
+
+---
+
+## ⚙️ TOOLS & SKILLS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 📊 GITHUB STATS
 
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agbaso-BI&show_icons=true&theme=github_dark&hide_border=true&title_color=F2C811&icon_color=F2C811" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbaso-BI&layout=compact&theme=github_dark&hide_border=true&title_color=F2C811" height="160"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agbaso-BI&theme=github-dark-blue&hide_border=true&ring=F2C811&fire=F2C811&currStreakLabel=F2C811"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbaso-BI&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<div align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
-</div>
+## 🤝 CONNECT
+
+<p align="center">
+  <a href="mailto:agbasodaniel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F2C811?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/danielchigozirim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## ⚡ QUOTE
+
+> “Without data, you're just another person with an opinion.”
